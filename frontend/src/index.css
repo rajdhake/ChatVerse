@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.right-chat-container, .chat-left-container{
+  background-color:#33274f !important;
+  color: white !important;
+}
+
+.button-left{
+  background-color: #643cc2 !important;
+  color: white !important;
+}
+
+.scroll-section{
+  background-color: #988eb1 !important;
+}
+
+.scroll-section-right{
+  background-color: #4b377c !important
+  /* background-image: url("./components/chatBg1.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+    background-repeat: no-repeat !important; */
+}
+
+.DrawerContent{
+  background: #d3cbeb !important;
+}
+
+.header{
+      background-color: #a996f0 !important;
+      /* color: white !important; */
+}
